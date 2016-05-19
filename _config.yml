@@ -1,14 +1,14 @@
-layout_spectrum: 0.8491012961603701
-typography_spectrum: 0.31222011568024755
+layout_spectrum: 0.9578506206162274
+typography_spectrum: 0.9946370045654476
 color:
-  brandStrength: 0.38140196120366454
-  lightness: 0.6094884260091931
-  saturation: 0.06199484132230282
-  rhythmicContrast: 0.6887452120427042
+  brandStrength: 0.4226989084854722
+  lightness: 0.26103354431688786
+  saturation: 0.5251460189465433
+  rhythmicContrast: 0.1878114773426205
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
 name: Blackspace
