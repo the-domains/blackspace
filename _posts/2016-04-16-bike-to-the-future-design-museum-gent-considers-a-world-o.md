@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-19T17:04:12.158Z'
+datePublished: '2016-05-19T17:04:12.624Z'
 sourcePath: _posts/2016-04-16-bike-to-the-future-design-museum-gent-considers-a-world-o.md
 inFeed: true
 isBasedOnUrl: 'http://www.wallpaper.com/design/cycling-our-way-to-the-future'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-19T17:04:08.042Z'
+dateModified: '2016-05-19T17:04:11.875Z'
 title: "'Bike to the Future': Design Museum Gent considers a world of two-wheeled design."
 app_links: []
 publisher:
