@@ -1,0 +1,14 @@
+layout_spectrum: 0.33593753981404006
+typography_spectrum: 0.19164787861518562
+color:
+  brandStrength: 0.27386326785199344
+  lightness: 0.5589902729261667
+  saturation: 0.39855052530765533
+  rhythmicContrast: 0.9077196547295898
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+name: Blackspace
