@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-19T17:04:12.055Z'
+datePublished: '2016-05-19T17:04:12.420Z'
 sourcePath: _posts/2016-04-15-7-gadgets-thatll-actually-get-you-excited-to-work-out.md
 inFeed: true
 isBasedOnUrl: 'https://www.thrillist.com/tech/nation/7-gadgets-and-apps-for-working-out-push-band-goji-play-bodyspace/tech'
@@ -24,7 +24,7 @@ author:
   - name: '@jwmcgauley'
     url: 'https://www.twitter.com/@jwmcgauley'
     avatar: {}
-dateModified: '2016-05-19T17:04:10.579Z'
+dateModified: '2016-05-19T17:04:10.508Z'
 title: "7 Gadgets That'll Actually Get You Excited to Work Out"
 app_links:
   - namespace: twitter
